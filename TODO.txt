@@ -1,0 +1,26 @@
+To-Do Liste für TDD Coding Kata "Electrons around the cores"
+
+Git-Repository
+- ein Verzeichnis im Terminal erstellen und ein Git-Repository initialisieren
+- Dateien erstellen:
+	- src: electronsGame.js
+	- spec: electronsGame_spec.js
+	- SpecRunner.html: Scripts einfügen
+- Jasmine Bibliotheken hinzufügen
+
+Implementierung des Produktionscodes
+- Funktion "ElectronsGame" implementieren
+- Failing Test schreiben
+
+Testfälle
+- Testfall hinzufügen: [ 1, 2, 3, 4, 5 ] -> 6
+- Testfall hinzufügen: [ 2, 2, 3, 3 ] -> 4
+- Testfall hinzufügen: [ 6, 6, 4, 4, 1, 3 ] -> 2
+- Testfall hinzufügen: [ 3, 5, 3, 5, 4, 2 ] -> 12
+
+Git-Commits
+- jeden Schritt mit einer passenden Commit-Nachricht versehen
+
+Finalisierung
+- alle Tests bestehen lassen
+- Projektverzeichnis zippen und hochladen
