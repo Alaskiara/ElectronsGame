@@ -11,6 +11,7 @@ Git-Repository
 Implementierung des Produktionscodes
 - Funktion "ElectronsGame" implementieren
 - Failing Test schreiben
+- ausbessern und korrekten Produktionscode schreiben
 
 Testfälle
 - Testfall hinzufügen: [ 1, 2, 3, 4, 5 ] -> 6
